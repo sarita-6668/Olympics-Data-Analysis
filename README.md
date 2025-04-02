@@ -1,6 +1,6 @@
 Olympics-Data-Analysis
 This project performs Exploratory Data Analysis (EDA) on Olympic Games data using Python (pandas, seaborn, matplotlib) to uncover trends in medal distribution, athlete performance, and country-wise success.
-# 🏅 Olympics Data Analysis using Power BI
+# 🏅 Olympics Data Analysis using Python
 🔍 *Exploring Olympic history through data insights and visualizations!*  
 
 ## 📌 Overview  
